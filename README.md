@@ -1,4 +1,6 @@
 # StochasticModels
-Project for Data Science course in GSE
+Waste Management Proposal, a Dynamic and stochastic approach to management of the waste. Case study with 1600 bins.
 
-When we have the data we can start uploading, and then thinking of a smart question.
+Still need to check the model.
+
+code still to be clean.
